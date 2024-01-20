@@ -1,3 +1,1 @@
-This is new file! with reset
-
-This line is added for revert!`
+This is new file! with reset`
