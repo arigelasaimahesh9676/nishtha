@@ -1,2 +1,1 @@
-This is new file! with reset
-adding second time in the reset file for revert practical`
+This is new file! with reset`
